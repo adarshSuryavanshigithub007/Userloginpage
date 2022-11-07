@@ -1,0 +1,90 @@
+{
+  "vendor": [
+    {
+      "name": "Ajay Gupta",
+      "email": "ajaygupta@123",
+      "password": "123",
+      "mobile": "9908987700",
+      "id": 1
+    },
+    {
+      "name": "adarsh",
+      "email": "adarsh@123",
+      "password": "1234",
+      "mobile": "2233990077",
+      "id": 2
+    },
+    {
+      "name": "Sakshi suryavanshi",
+      "email": "sakshi@123",
+      "password": "123",
+      "mobile": "9353049245",
+      "id": 3
+    },
+    {
+      "name": "Ashutosh",
+      "email": "ashutosh@123",
+      "password": "1234",
+      "mobile": "80978967868",
+      "id": 4
+    }
+  ],
+  "company": [
+    {
+      "name": "company-1",
+      "address": "company-1-address",
+      "created": "adarsh",
+      "Status": "Approved",
+      "id": 1
+    },
+    {
+      "name": "company-2",
+      "address": "company-2-address",
+      "created": "Mahesh",
+      "Status": "UnApprove",
+      "id": 2
+    },
+    {
+      "name": "company-3",
+      "address": "company-3-address",
+      "created": "Shiv",
+      "Status": "unApproved",
+      "id": 3
+    },
+    {
+      "name": "company-4",
+      "address": "company-4-address",
+      "created": "brahma",
+      "Status": "Approved",
+      "id": 4
+    },
+    {
+      "name": "company-5",
+      "address": "company-5-address",
+      "created": "Shankar",
+      "Status": "unApproved",
+      "id": 5
+    },
+    {
+      "name": "company-6",
+      "address": "company-6-address",
+      "created": "govinda",
+      "Status": "Approved",
+      "id": 6
+    },
+    {
+      "name": "company-7",
+      "address": "company-7-address",
+      "created": "sanjay",
+      "Status": "Approved",
+      "id": 7
+    },
+    {
+      "name": "company-8",
+      "address": "company-8-address",
+      "created": "umesh",
+      "Status": "UnApproved",
+      "id": 8
+    }
+  ]
+}

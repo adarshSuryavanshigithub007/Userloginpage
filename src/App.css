@@ -2,6 +2,9 @@
   text-align: center;
 }
 
+h1{
+  font-size:50px !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +29,10 @@
 
 .App-link {
   color: #61dafb;
+}
+.nav-links {
+  color: white !important;
+  text-decoration: none !important;
 }
 
 @keyframes App-logo-spin {
